@@ -1,7 +1,12 @@
 aid: itt
-url: https://raw.githubusercontent.com/api-evangelist/itt/refs/heads/main/apis.yml
+url: 
+  https://raw.githubusercontent.com/api-evangelist/itt/refs/heads/main/apis.yml
 modified: '2026-03-24'
 apis: []
 common:
   - type: Website
     url: https://www.itt.com
+description: >-
+  ITT Inc. is a diversified leading manufacturer of highly engineered critical components
+  and customized technology solutions for the transportation, industrial, and oil
+  and gas markets.
