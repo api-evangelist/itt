@@ -1,7 +1,9 @@
 ---
 title: Intel Simplifies Physical AI Deployment with Intel Robotics ...
 url: https://newsroom.intel.com/artificial-intelligence/postcard-from-itt-2025-intel-physical-ai-deployment-with-robotics-ai-suite
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"ITT" press release artificial intelligence'
 position: 5
 source: serpapi-google
